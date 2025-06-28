@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Nour Farhat
 
-<!--
-**NourFarhat13/NourFarhat13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Digital Health @ HPI · 📍 Berlin  
+💊 Background in Pharmacy | 🧠 Passionate about AI in Healthcare
 
-Here are some ideas to get you started:
+## 🔬 Current Projects
+- 🧠 N-of-1 Trials Simulator in R — Personalized medicine & cognitive performance
+- 📱 Wearable Sensor Analysis — Cognitive load and physical activity using Python & Data4Life
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+**Languages**: Python, R, SQL  
+**Tools**: FastAPI, Git, Scikit-learn, Pandas, Matplotlib, Streamlit  
+**Cloud**: AWS (basic), Google Colab  
+**Interests**: Digital Health · Bioinformatics · Applied Machine Learning · UX in Health Apps
+
+## 📫 How to reach me
+- [LinkedIn](https://linkedin.com/in/nour-farhat-3b0ab7291)
+- ✉️ nourfarhat135@gmail.com
